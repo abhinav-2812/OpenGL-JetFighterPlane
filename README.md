@@ -5,7 +5,7 @@ This game is an arcade game where the player controls the plane and move it forw
 Objective of the game is to maximize score by destroying parachutes, passing through rings and eliminating checkpoints.
 
 ## How to run:
-Enter the command "./graphics_asgn1" on the terminal i
+Enter the command "./graphics_asgn1" on the terminal in the output folder.
 
 ## Controls :
 + W : move forward
