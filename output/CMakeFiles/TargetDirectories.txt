@@ -1,0 +1,3 @@
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/output/CMakeFiles/rebuild_cache.dir
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/output/CMakeFiles/graphics_asgn1.dir
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/output/CMakeFiles/edit_cache.dir

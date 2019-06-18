@@ -1,0 +1,296 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/arrow.cpp
+arrow.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/arrow.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/arrow.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/color.cpp
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/compass.cpp
+compass.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/compass.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/compass.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/enemy.cpp
+enemy.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/enemy.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/enemy.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuel.cpp
+fuel.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuel.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuel.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuelmeter.cpp
+fuelmeter.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuelmeter.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuelmeter.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/heart.cpp
+heart.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/heart.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/heart.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/input.cpp
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.cpp
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+arrow.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/arrow.h
+compass.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/compass.h
+enemy.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/enemy.h
+fuel.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuel.h
+fuelmeter.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/fuelmeter.h
+heart.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/heart.h
+missile.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/missile.h
+parachute.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/parachute.h
+plane.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/plane.h
+ring.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/ring.h
+score.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/score.h
+sea.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/sea.h
+speedometer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/speedometer.h
+target.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/target.h
+timer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/timer.h
+volcano.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/volcano.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/missile.cpp
+missile.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/missile.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/missile.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/nonedit.cpp
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/other_handlers.cpp
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/parachute.cpp
+parachute.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/parachute.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/parachute.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/plane.cpp
+plane.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/plane.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/plane.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/ring.cpp
+ring.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/ring.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/ring.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/score.cpp
+score.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/score.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/score.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/sea.cpp
+sea.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/sea.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/sea.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/speedometer.cpp
+speedometer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/speedometer.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/speedometer.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/target.cpp
+target.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/target.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/target.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/timer.cpp
+timer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/timer.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/volcano.cpp
+volcano.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/volcano.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/volcano.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a2_2018121003/a2_2018121003/src/main.h
+
